@@ -5,6 +5,7 @@
 - 📫 How to reach me: fathy.mshalaby@outlook.com
 - 🔭 I’m currently working on Machine Learning topics like Computer Vision, Reinforcement Learning, NLP and more.
 - 🌱 I’m currently learning about Full Stack and new Machine Learning methods
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <!--
 Here are some ideas to get you started:
 
